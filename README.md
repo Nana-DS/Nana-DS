@@ -2,7 +2,7 @@
 
 I'm a data analyst.
 - I write code in **Python** and **SQL**. I use pandas, matplotlib, seaborn, plotly, scipy, numpy etc.
-- I speak 🇬🇧 English, 🇷🇺 Russian, 🇪🇸 Spanish. I'm going to learn 🇫🇮 Finnish next.
+- I speak 🇬🇧 English, 🇷🇺 Russian, 🇪🇸 Spanish.
 - In addition to analytics, I like to read about psychology, languages and communication.
 
 <br>
@@ -20,5 +20,5 @@ I'm a data analyst.
 
 Я аналитик данных.
 - Пишу на **Python** и **SQL**. Использую pandas, matplotlib, seaborn, plotly, scipy, numpy и т.д.
-- Говорю на 🇷🇺 русском, 🇬🇧 английском, 🇪🇸 испанском. Хочу выучить 🇫🇮 финский.
+- Говорю на 🇷🇺 русском, 🇬🇧 английском, 🇪🇸 испанском.
 - Помимо аналитики, люблю читать о психологии, языках и общении.
